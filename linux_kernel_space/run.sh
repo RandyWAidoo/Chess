@@ -1,0 +1,1 @@
+make && ./chess_client
